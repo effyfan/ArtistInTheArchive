@@ -1,0 +1,712 @@
+[
+  {
+    "country": "India",
+    "frequency": 232,
+    "Code": "IN"
+  },
+  {
+    "country": "Kenya",
+    "frequency": 37,
+    "Code": "KE"
+  },
+  {
+    "country": "Sudan",
+    "frequency": 5,
+    "Code": "SD"
+  },
+  {
+    "country": "Madagascar",
+    "frequency": 5,
+    "Code": "MG"
+  },
+  {
+    "country": "Spain",
+    "frequency": 51,
+    "Code": "ES"
+  },
+  {
+    "country": "Canada",
+    "frequency": 594,
+    "Code": "CA"
+  },
+  {
+    "country": "United States",
+    "frequency": 3647,
+    "Code": "US"
+  },
+  {
+    "country": "Lebanon",
+    "frequency": 14,
+    "Code": "LB"
+  },
+  {
+    "country": "Australia",
+    "frequency": 117,
+    "Code": "AU"
+  },
+  {
+    "country": "Mexico",
+    "frequency": 206,
+    "Code": "MX"
+  },
+  {
+    "country": "San Marino",
+    "frequency": 3,
+    "Code": "SM"
+  },
+  {
+    "country": "China",
+    "frequency": 321,
+    "Code": "CN"
+  },
+  {
+    "country": "Liberia",
+    "frequency": 34,
+    "Code": "LR"
+  },
+  {
+    "country": "Japan",
+    "frequency": 195,
+    "Code": "JP"
+  },
+  {
+    "country": "Cuba",
+    "frequency": 127,
+    "Code": "CU"
+  },
+  {
+    "country": "Italy",
+    "frequency": 104,
+    "Code": "IT"
+  },
+  {
+    "country": "France",
+    "frequency": 317,
+    "Code": "FR"
+  },
+  {
+    "country": "Germany",
+    "frequency": 174,
+    "Code": "DE"
+  },
+  {
+    "country": "Georgia",
+    "frequency": 178,
+    "Code": "GE"
+  },
+  {
+    "country": "Egypt",
+    "frequency": 127,
+    "Code": "EG"
+  },
+  {
+    "country": "Ireland",
+    "frequency": 85,
+    "Code": "IE"
+  },
+  {
+    "country": "Panama",
+    "frequency": 102,
+    "Code": "PA"
+  },
+  {
+    "country": "Peru",
+    "frequency": 17,
+    "Code": "PE"
+  },
+  {
+    "country": "Monaco",
+    "frequency": 7,
+    "Code": "MC"
+  },
+  {
+    "country": "Mozambique",
+    "frequency": 1,
+    "Code": "MZ"
+  },
+  {
+    "country": "Angola",
+    "frequency": 1,
+    "Code": "AO"
+  },
+  {
+    "country": "Belgium",
+    "frequency": 24,
+    "Code": "BE"
+  },
+  {
+    "country": "Philippines",
+    "frequency": 33,
+    "Code": "PH"
+  },
+  {
+    "country": "Ethiopia",
+    "frequency": 6,
+    "Code": "ET"
+  },
+  {
+    "country": "Bulgaria",
+    "frequency": 20,
+    "Code": "BG"
+  },
+  {
+    "country": "South Africa",
+    "frequency": 25,
+    "Code": "ZA"
+  },
+  {
+    "country": "Bermuda",
+    "frequency": 18,
+    "Code": "BM"
+  },
+  {
+    "country": "Dominican Republic",
+    "frequency": 10,
+    "Code": "DO"
+  },
+  {
+    "country": "Guinea",
+    "frequency": 16,
+    "Code": "GN"
+  },
+  {
+    "country": "Malaysia",
+    "frequency": 26,
+    "Code": "MY"
+  },
+  {
+    "country": "Ecuador",
+    "frequency": 17,
+    "Code": "EC"
+  },
+  {
+    "country": "Netherlands",
+    "frequency": 9,
+    "Code": "NL"
+  },
+  {
+    "country": "Uganda",
+    "frequency": 14,
+    "Code": "UG"
+  },
+  {
+    "country": "Congo",
+    "frequency": 7,
+    "Code": "CG"
+  },
+  {
+    "country": "Jordan",
+    "frequency": 42,
+    "Code": "JO"
+  },
+  {
+    "country": "Greece",
+    "frequency": 33,
+    "Code": "GR"
+  },
+  {
+    "country": "Guatemala",
+    "frequency": 14,
+    "Code": "GT"
+  },
+  {
+    "country": "Romania",
+    "frequency": 18,
+    "Code": "RO"
+  },
+  {
+    "country": "Israel",
+    "frequency": 79,
+    "Code": "IL"
+  },
+  {
+    "country": "Iceland",
+    "frequency": 17,
+    "Code": "IS"
+  },
+  {
+    "country": "Paraguay",
+    "frequency": 2,
+    "Code": "PY"
+  },
+  {
+    "country": "Denmark",
+    "frequency": 10,
+    "Code": "DK"
+  },
+  {
+    "country": "Sweden",
+    "frequency": 18,
+    "Code": "SE"
+  },
+  {
+    "country": "Hong Kong",
+    "frequency": 44,
+    "Code": "HK"
+  },
+  {
+    "country": "New Zealand",
+    "frequency": 34,
+    "Code": "NZ"
+  },
+  {
+    "country": "United Kingdom",
+    "frequency": 31,
+    "Code": "GB"
+  },
+  {
+    "country": "Indonesia",
+    "frequency": 70,
+    "Code": "ID"
+  },
+  {
+    "country": "Papua New Guinea",
+    "frequency": 5,
+    "Code": "PG"
+  },
+  {
+    "country": "Switzerland",
+    "frequency": 16,
+    "Code": "CH"
+  },
+  {
+    "country": "Finland",
+    "frequency": 9,
+    "Code": "FI"
+  },
+  {
+    "country": "Saudi Arabia",
+    "frequency": 3,
+    "Code": "SA"
+  },
+  {
+    "country": "Puerto Rico",
+    "frequency": 27,
+    "Code": "PR"
+  },
+  {
+    "country": "Thailand",
+    "frequency": 9,
+    "Code": "TH"
+  },
+  {
+    "country": "Bahamas",
+    "frequency": 41,
+    "Code": "BS"
+  },
+  {
+    "country": "Senegal",
+    "frequency": 4,
+    "Code": "SN"
+  },
+  {
+    "country": "Bhutan",
+    "frequency": 6,
+    "Code": "BT"
+  },
+  {
+    "country": "Argentina",
+    "frequency": 11,
+    "Code": "AR"
+  },
+  {
+    "country": "Nepal",
+    "frequency": 22,
+    "Code": "NP"
+  },
+  {
+    "country": "Norway",
+    "frequency": 35,
+    "Code": "NO"
+  },
+  {
+    "country": "Colombia",
+    "frequency": 4,
+    "Code": "CO"
+  },
+  {
+    "country": "Chile",
+    "frequency": 14,
+    "Code": "CL"
+  },
+  {
+    "country": "Nigeria",
+    "frequency": 5,
+    "Code": "NG"
+  },
+  {
+    "country": "Nicaragua",
+    "frequency": 19,
+    "Code": "NI"
+  },
+  {
+    "country": "Guadeloupe",
+    "frequency": 1,
+    "Code": "GP"
+  },
+  {
+    "country": "Togo",
+    "frequency": 6,
+    "Code": "TG"
+  },
+  {
+    "country": "Morocco",
+    "frequency": 22,
+    "Code": "MA"
+  },
+  {
+    "country": "Costa Rica",
+    "frequency": 5,
+    "Code": "CR"
+  },
+  {
+    "country": "Haiti",
+    "frequency": 10,
+    "Code": "HT"
+  },
+  {
+    "country": "Antarctica",
+    "frequency": 3,
+    "Code": "AQ"
+  },
+  {
+    "country": "Portugal",
+    "frequency": 8,
+    "Code": "PT"
+  },
+  {
+    "country": "Honduras",
+    "frequency": 14,
+    "Code": "HN"
+  },
+  {
+    "country": "Zimbabwe",
+    "frequency": 36,
+    "Code": "ZW"
+  },
+  {
+    "country": "Brazil",
+    "frequency": 21,
+    "Code": "BR"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "frequency": 1,
+    "Code": "PM"
+  },
+  {
+    "country": "Palau",
+    "frequency": 3,
+    "Code": "PW"
+  },
+  {
+    "country": "El Salvador",
+    "frequency": 10,
+    "Code": "SV"
+  },
+  {
+    "country": "Samoa",
+    "frequency": 8,
+    "Code": "WS"
+  },
+  {
+    "country": "Poland",
+    "frequency": 16,
+    "Code": "PL"
+  },
+  {
+    "country": "Turkey",
+    "frequency": 41,
+    "Code": "TR"
+  },
+  {
+    "country": "Iraq",
+    "frequency": 14,
+    "Code": "IQ"
+  },
+  {
+    "country": "Somalia",
+    "frequency": 3,
+    "Code": "SO"
+  },
+  {
+    "country": "Mongolia",
+    "frequency": 1,
+    "Code": "MN"
+  },
+  {
+    "country": "Singapore",
+    "frequency": 18,
+    "Code": "SG"
+  },
+  {
+    "country": "Yemen",
+    "frequency": 1,
+    "Code": "YE"
+  },
+  {
+    "country": "Austria",
+    "frequency": 24,
+    "Code": "AT"
+  },
+  {
+    "country": "Jamaica",
+    "frequency": 34,
+    "Code": "JM"
+  },
+  {
+    "country": "Grenada",
+    "frequency": 3,
+    "Code": "GD"
+  },
+  {
+    "country": "Pakistan",
+    "frequency": 141,
+    "Code": "PK"
+  },
+  {
+    "country": "Afghanistan",
+    "frequency": 5,
+    "Code": "AF"
+  },
+  {
+    "country": "Martinique",
+    "frequency": 13,
+    "Code": "MQ"
+  },
+  {
+    "country": "Chad",
+    "frequency": 6,
+    "Code": "TD"
+  },
+  {
+    "country": "Algeria",
+    "frequency": 6,
+    "Code": "DZ"
+  },
+  {
+    "country": "Ukraine",
+    "frequency": 5,
+    "Code": "UA"
+  },
+  {
+    "country": "Barbados",
+    "frequency": 10,
+    "Code": "BB"
+  },
+  {
+    "country": "Malta",
+    "frequency": 3,
+    "Code": "MT"
+  },
+  {
+    "country": "Hungary",
+    "frequency": 7,
+    "Code": "HU"
+  },
+  {
+    "country": "Guam",
+    "frequency": 3,
+    "Code": "GU"
+  },
+  {
+    "country": "Dominica",
+    "frequency": 1,
+    "Code": "DM"
+  },
+  {
+    "country": "Gibraltar",
+    "frequency": 12,
+    "Code": "GI"
+  },
+  {
+    "country": "Albania",
+    "frequency": 6,
+    "Code": "AL"
+  },
+  {
+    "country": "Cook Islands",
+    "frequency": 1,
+    "Code": "CK"
+  },
+  {
+    "country": "Niger",
+    "frequency": 5,
+    "Code": "NE"
+  },
+  {
+    "country": "Myanmar",
+    "frequency": 17,
+    "Code": "MM"
+  },
+  {
+    "country": "Tunisia",
+    "frequency": 15,
+    "Code": "TN"
+  },
+  {
+    "country": "Mali",
+    "frequency": 4,
+    "Code": "ML"
+  },
+  {
+    "country": "Ghana",
+    "frequency": 5,
+    "Code": "GH"
+  },
+  {
+    "country": "Cyprus",
+    "frequency": 3,
+    "Code": "CY"
+  },
+  {
+    "country": "Namibia",
+    "frequency": 13,
+    "Code": ""
+  },
+  {
+    "country": "Pitcairn",
+    "frequency": 1,
+    "Code": "PN"
+  },
+  {
+    "country": "Gambia",
+    "frequency": 2,
+    "Code": "GM"
+  },
+  {
+    "country": "Mauritius",
+    "frequency": 6,
+    "Code": "MU"
+  },
+  {
+    "country": "Lithuania",
+    "frequency": 2,
+    "Code": "LT"
+  },
+  {
+    "country": "Cambodia",
+    "frequency": 4,
+    "Code": "KH"
+  },
+  {
+    "country": "Sierra Leone",
+    "frequency": 1,
+    "Code": "SL"
+  },
+  {
+    "country": "Bahrain",
+    "frequency": 1,
+    "Code": "BH"
+  },
+  {
+    "country": "Malawi",
+    "frequency": 11,
+    "Code": "MW"
+  },
+  {
+    "country": "Gabon",
+    "frequency": 3,
+    "Code": "GA"
+  },
+  {
+    "country": "Oman",
+    "frequency": 1,
+    "Code": "OM"
+  },
+  {
+    "country": "Luxembourg",
+    "frequency": 7,
+    "Code": "LU"
+  },
+  {
+    "country": "Greenland",
+    "frequency": 13,
+    "Code": "GL"
+  },
+  {
+    "country": "Lesotho",
+    "frequency": 8,
+    "Code": "LS"
+  },
+  {
+    "country": "Bangladesh",
+    "frequency": 4,
+    "Code": "BD"
+  },
+  {
+    "country": "Rwanda",
+    "frequency": 11,
+    "Code": "RW"
+  },
+  {
+    "country": "Aruba",
+    "frequency": 2,
+    "Code": "AW"
+  },
+  {
+    "country": "Suriname",
+    "frequency": 1,
+    "Code": "SR"
+  },
+  {
+    "country": "Montserrat",
+    "frequency": 1,
+    "Code": "MS"
+  },
+  {
+    "country": "Armenia",
+    "frequency": 1,
+    "Code": "AM"
+  },
+  {
+    "country": "Belize",
+    "frequency": 1,
+    "Code": "BZ"
+  },
+  {
+    "country": "New Caledonia",
+    "frequency": 1,
+    "Code": "NC"
+  },
+  {
+    "country": "Latvia",
+    "frequency": 1,
+    "Code": "LV"
+  },
+  {
+    "country": "Zambia",
+    "frequency": 6,
+    "Code": "ZM"
+  },
+  {
+    "country": "Eritrea",
+    "frequency": 1,
+    "Code": "ER"
+  },
+  {
+    "country": "Uruguay",
+    "frequency": 3,
+    "Code": "UY"
+  },
+  {
+    "country": "Russian Federation",
+    "frequency": 1,
+    "Code": "RU"
+  },
+  {
+    "country": "Central African Republic",
+    "frequency": 1,
+    "Code": "CF"
+  },
+  {
+    "country": "Slovakia",
+    "frequency": 2,
+    "Code": "SK"
+  },
+  {
+    "country": "Benin",
+    "frequency": 2,
+    "Code": "BJ"
+  }
+]
