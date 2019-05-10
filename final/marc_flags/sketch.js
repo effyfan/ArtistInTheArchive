@@ -106,8 +106,8 @@ function updateForces() {
     .y(height * forceProperties.forceY.y);
   simulation.force("link")
     .distance(function(d) {
-      return d.distance * 10;
-    }).strength(0.002)
+      return d.distance * d.distance/500;
+    }).strength(0.001)
     .iterations(forceProperties.link.iterations)
     .links(forceProperties.link.enabled ? graph.links : []);
 

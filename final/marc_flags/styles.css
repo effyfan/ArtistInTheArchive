@@ -39,8 +39,8 @@ text {
 /* SVG styles */
 svg {
   flex-basis: 100%;
-  min-height: 2800px;
-  min-width: 1800px;
+  min-height: 1000px;
+  min-width: 1500px;
   position: absolute;
   top: 0px;
   left: 200px;
